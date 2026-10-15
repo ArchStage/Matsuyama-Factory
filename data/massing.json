@@ -1,0 +1,68 @@
+{
+  "office": {
+    "size": [
+      32.2,
+      15
+    ],
+    "floors": [
+      {
+        "level": 1,
+        "y": 0.5,
+        "height": 4,
+        "texture": "floor1.png"
+      },
+      {
+        "level": 2,
+        "y": 4.5,
+        "height": 4.5,
+        "texture": "floor2.png"
+      },
+      {
+        "level": 3,
+        "y": 9,
+        "height": 4,
+        "texture": "floor3.png"
+      }
+    ],
+    "roofY": 13,
+    "roofScreen": {
+      "center": [
+        -9,
+        14.7,
+        0
+      ],
+      "size": [
+        13.3,
+        3.45,
+        15
+      ]
+    },
+    "baseElevationSource": "松山01 p18 GL+500"
+  },
+  "changing": {
+    "center": [
+      -12.95,
+      0,
+      24.95
+    ],
+    "size": [
+      11.905,
+      16.53
+    ],
+    "height": 7.8
+  },
+  "site": {
+    "center": [
+      8.35,
+      0,
+      9.65
+    ],
+    "size": [
+      83.7,
+      49.9
+    ]
+  },
+  "north": "-Z",
+  "units": "m",
+  "notes": "事務所外形・階高は寸法図。屋上目隠し・敷地範囲・付属物は概形。"
+}

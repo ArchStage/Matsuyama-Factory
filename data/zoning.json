@@ -1,0 +1,23 @@
+[
+  {
+    "id": "visitor",
+    "name": "来客エリア",
+    "description": "セキュリティ無",
+    "color": "#ffe5ff",
+    "edge": "#c137bf"
+  },
+  {
+    "id": "employee",
+    "name": "社員エリア",
+    "description": "セキュリティレベル1、2",
+    "color": "#ffffb3",
+    "edge": "#9a7e00"
+  },
+  {
+    "id": "secure",
+    "name": "高セキュリティエリア",
+    "description": "セキュリティレベル3",
+    "color": "#d9fed1",
+    "edge": "#32912f"
+  }
+]

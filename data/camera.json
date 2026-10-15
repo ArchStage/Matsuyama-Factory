@@ -1,0 +1,93 @@
+{
+  "site": {
+    "position": [
+      86,
+      64,
+      -96
+    ],
+    "target": [
+      8,
+      4,
+      8
+    ],
+    "span": 73
+  },
+  "facade": {
+    "position": [
+      61,
+      24,
+      69
+    ],
+    "target": [
+      0,
+      6,
+      0
+    ],
+    "span": 45
+  },
+  "exploded": {
+    "position": [
+      44,
+      44,
+      52
+    ],
+    "target": [
+      0,
+      13,
+      0
+    ],
+    "span": 64
+  },
+  "routes": {
+    "position": [
+      55,
+      63,
+      70
+    ],
+    "target": [
+      5,
+      8,
+      4
+    ],
+    "span": 76
+  },
+  "security": {
+    "position": [
+      38,
+      47,
+      52
+    ],
+    "target": [
+      0,
+      14,
+      0
+    ],
+    "span": 65
+  },
+  "bcp": {
+    "position": [
+      42,
+      31,
+      -46
+    ],
+    "target": [
+      0,
+      10,
+      0
+    ],
+    "span": 58
+  },
+  "final": {
+    "position": [
+      72,
+      47,
+      -77
+    ],
+    "target": [
+      5,
+      4,
+      6
+    ],
+    "span": 77
+  }
+}

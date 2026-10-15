@@ -1,0 +1,70 @@
+{
+  "title": "University of Iowa Musical Instrument Samples — Piano, pianissimo",
+  "performer": "Evan Mazunik",
+  "instrument": "Steinway & Sons model B",
+  "recorded": "2001-11-05 / 2001-11-27",
+  "recordingTechnician": "Michael Cash",
+  "collection": "Lawrence Fritts / University of Iowa Electronic Music Studios",
+  "source": "https://theremin.music.uiowa.edu/MISPiano.html",
+  "permission": "https://theremin.music.uiowa.edu/MIS.html",
+  "permissionChecked": "2026-10-15",
+  "permissionSummary": "Official collection page permits downloading and use for any projects without restrictions.",
+  "edits": "Trimmed onset/tail, DC removed, peak normalized, short fades; WAV stereo 16-bit 44.1kHz.",
+  "samples": [
+    {
+      "file": "piano-pp-C4.wav",
+      "source": "https://theremin.music.uiowa.edu/sound files/MIS/Piano_Other/piano/Piano.pp.C4.aiff",
+      "originalSha256": "94540df460e6f4b1517d9ae0bb1a1cc5b4b28ffd61106eda3e89475544ee545d",
+      "originalSeconds": 29.452,
+      "trimStartSeconds": 0.088,
+      "seconds": 2.2,
+      "peak": 0.6,
+      "rms": 0.08017409834817103,
+      "normalizationGain": 38.6495
+    },
+    {
+      "file": "piano-pp-E4.wav",
+      "source": "https://theremin.music.uiowa.edu/sound files/MIS/Piano_Other/piano/Piano.pp.E4.aiff",
+      "originalSha256": "3dfb2e26042b3c3352dd0d2911ac37ec9506dc42941cc7d9c89b345bc024e03c",
+      "originalSeconds": 29.422,
+      "trimStartSeconds": 0.118,
+      "seconds": 2.2,
+      "peak": 0.6,
+      "rms": 0.08737146253281003,
+      "normalizationGain": 42.8634
+    },
+    {
+      "file": "piano-pp-G4.wav",
+      "source": "https://theremin.music.uiowa.edu/sound files/MIS/Piano_Other/piano/Piano.pp.G4.aiff",
+      "originalSha256": "b791b4ee88662169f6b5b33e0fc278a7159a4aa9b3f25af3301af1687f10be90",
+      "originalSeconds": 25.544,
+      "trimStartSeconds": 0.078,
+      "seconds": 2.2,
+      "peak": 0.6,
+      "rms": 0.08109922616061213,
+      "normalizationGain": 27.8431
+    },
+    {
+      "file": "piano-pp-C5.wav",
+      "source": "https://theremin.music.uiowa.edu/sound files/MIS/Piano_Other/piano/Piano.pp.C5.aiff",
+      "originalSha256": "7971a111ee9ca5940327f239e5971c8c96fcf28b3a823ee80f85770d228b8862",
+      "originalSeconds": 23.049,
+      "trimStartSeconds": 0.178,
+      "seconds": 2.2,
+      "peak": 0.6,
+      "rms": 0.07485639669440171,
+      "normalizationGain": 18.0077
+    },
+    {
+      "file": "piano-pp-E5.wav",
+      "source": "https://theremin.music.uiowa.edu/sound files/MIS/Piano_Other/piano/Piano.pp.E5.aiff",
+      "originalSha256": "088aa62ec98beb251fa89483bc1b6336b7aa2a5575f6aa2a0bc5700f17f1f1a3",
+      "originalSeconds": 21.942,
+      "trimStartSeconds": 0.088,
+      "seconds": 2.2,
+      "peak": 0.6,
+      "rms": 0.05910360415433485,
+      "normalizationGain": 18.0486
+    }
+  ]
+}
